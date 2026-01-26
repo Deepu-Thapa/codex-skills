@@ -1,3 +1,7 @@
+# The set of Codex skills based on Effective Java (2nd ed.).
+
+Original content: https://github.com/HugoMatilla/Effective-JAVA-Summary
+
 # Using the codex‑skills repository effectively
 
 The **codex‑skills** repository contains modular skills that teach best practices for programming in Java.  Each skill is self‑contained and designed to be pulled into ChatGPT or Codex when needed.  This guide explains how the repository is organised, how to load skills, and how to write prompts that leverage both high‑level checklists and deeper reference material.
